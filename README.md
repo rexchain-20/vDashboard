@@ -1,26 +1,5 @@
-# vuejs-webapp-sample
-
-[![license](https://img.shields.io/github/license/ybkuroki/vuejs-webapp-sample?style=for-the-badge)](https://github.com/ybkuroki/vuejs-webapp-sample/blob/master/LICENSE)
-[![workflow](https://img.shields.io/github/workflow/status/ybkuroki/vuejs-webapp-sample/check?label=check&style=for-the-badge&logo=github)](https://github.com/ybkuroki/vuejs-webapp-sample/actions?query=workflow%3Acheck)
-[![release](https://img.shields.io/github/release/ybkuroki/vuejs-webapp-sample?style=for-the-badge&logo=github)](https://github.com/ybkuroki/vuejs-webapp-sample/releases)
-
-## Preface
-This sample project uses [Vue.js](https://vuejs.org/index.html) and [Vue Material](https://vuematerial.io/). It provides only Web UI. So, I recommend using the [golang-webapp-sample](https://github.com/ybkuroki/golang-webapp-sample) project as Back End Application.
-
-## Install
-Perform the following steps:
-1. Download and install [Node.js](https://nodejs.org/en/).
-1. Download and install [Visual Studio Code(VS Code)](https://code.visualstudio.com/).
-1. Install [vetur](https://github.com/vuejs/vetur) extension for VS Code.
-1. Clone this repository.
-1. Download and install npm packages.
-    ```bash
-    npm install
-    ```
-
 ## Starting Server
 Perform the following steps:
-1. Perform [golang-webapp-sample](https://github.com/ybkuroki/golang-webapp-sample) project.
 1. Start the development server.
     ```bash
     npm run serve
@@ -31,7 +10,7 @@ Perform the following steps:
     
     App running at:
     - Local:   http://localhost:3000/
-    - Network: http://192.168.***.***:3000/
+    - Network: http://***.***.***.***:3000/
     
     Note that the development build is not optimized.
     To create a production build, run npm run build.
@@ -49,7 +28,7 @@ npm run build
 The following figure is the map of this sample project.
 
 ```
-- vuejs-webapp-sample
+- vDashboard
   + public          … Contains resouces of this project.
   - src
     + assets        … Contains source codes that Webpack doesn't need to build.

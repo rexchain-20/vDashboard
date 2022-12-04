@@ -1,8 +1,8 @@
 
 export const AppInfo = {
-  AppName: "vuejs-webapp-sample",
-  AppDeveloper: "ybkuroki",
-  GithubLink: "https://github.com/ybkuroki/vuejs-webapp-sample"
+  AppName: "vDashboard",
+  AppDeveloper: "ifollowyou-hub",
+  GithubLink: "https://github.com/ifollowyou-hub/vDashboard"
 };
 
 const api = "/api"

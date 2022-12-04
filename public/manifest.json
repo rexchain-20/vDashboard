@@ -1,6 +1,6 @@
 {
-  "name": "vuejs-webapp-sample",
-  "short_name": "vuejs-webapp-sample",
+  "name": "vDashboard",
+  "short_name": "vDashboard",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

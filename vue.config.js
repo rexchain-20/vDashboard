@@ -6,7 +6,7 @@ module.exports = {
   pwa: {
     workboxPluginMode: 'GenerateSW',
     workboxOptions: {
-      cacheId: 'vuejs-webapp-sample',
+      cacheId: 'vDashboard',
       swDest: 'service-worker.js',
       clientsClaim: true,
       runtimeCaching: [
