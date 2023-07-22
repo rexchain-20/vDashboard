@@ -64,10 +64,3 @@ This sample uses the following library.
 |Vuex|3.6.2|Flux library for Vue.js|
 |axios|0.27.2|library for Ajax.|
 |vue-material|1.0.0-beta-14|CSS Framework|
-
-## Contribution
-Please read CONTRIBUTING.md for proposing new functions, reporting bugs and submitting pull requests before contributing to this repository.
-
-## License
-The License of this sample is *MIT License*.
-
